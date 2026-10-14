@@ -1,2 +1,2 @@
-# MyCC---Certifications-
+# MyCC-Certifications-
 Networking I
